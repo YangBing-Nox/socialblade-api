@@ -42,3 +42,5 @@ System.out.println(stats.getSubs());
 The library is released under the GNU General Public License V3.
 I have no affiliation with SocialBlade.
 
+https://www.noxinfluencer.com/youtube/search
+
